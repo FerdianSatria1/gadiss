@@ -1,0 +1,6 @@
+{
+  "name": "Rental Anak Gadis Parodi",
+  "description": "Aplikasi parodi interaktif sewa gadis virtual halu pendamping ngobrol. Dilengkapi simulator chat AI Gemini, aneka paket kencan lucu, toko hadiah, review fiktif, serta saldo dompet halu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
